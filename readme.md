@@ -1,6 +1,6 @@
 # Windows 10 console bug
 
-Reported originally in Maximus5/ConEmu#718 for Windows 10 Insider build 14361.
+Reported originally in [ConEmu#718](https://github.com/Maximus5/ConEmu/issues/718) for Windows 10 Insider build 14361.
 
 ## Description
 

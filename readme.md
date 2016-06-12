@@ -9,6 +9,6 @@ The call of `SetConsoleScreenBufferSize`, increasing console buffer by one colum
 1. `GetConsoleCursorInfo` returns **zero** cursor height (even MSDN promises only values 1..100);
 2. The cursor position unexpectedly jumps to unexpected position.
 
-![Animated description](https://github.com/Maximus5/ms-bug-1/blob/master/inc-width.gif)
+![Animated description](https://github.com/Maximus5/ms-bug-1/blob/master/inc-width2.gif)
 
 
